@@ -1,0 +1,512 @@
+GuiPoint position: 12
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | *-*-* | |
+3 *-*-*   *-*-*
+4 | | *-*-* | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 3, y = 5
+GuiPoint position: 20
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | *-*-* | |
+3 *-*-*   *-X-*
+4 | | *-*-* | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 3, y = 4
+GuiPoint position: 21
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | *-*-* | |
+3 *-*-*   O-X-*
+4 | | *-*-* | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 4, y = 4
+GuiPoint position: 19
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | *-*-* | |
+3 *-*-*   O-X-*
+4 | | *-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 2, y = 4
+GuiPoint position: 18
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | *-*-O | |
+3 *-*-*   O-X-*
+4 | | *-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 2, y = 3
+GuiPoint position: 17
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | *-X-O | |
+3 *-*-*   O-X-*
+4 | | *-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 2, y = 2
+GuiPoint position: 24
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | O-X-O | |
+3 *-*-*   O-X-*
+4 | | *-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 3, y = 2
+GuiPoint position: 23
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | O-X-O | |
+3 *-*-X   O-X-*
+4 | | *-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 4, y = 2
+GuiPoint position: 16
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | O-X-O | |
+3 *-*-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 3, y = 1
+GuiPoint position: 9
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | *---*---* |
+2 | | O-X-O | |
+3 *-X-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 1, y = 1
+GuiPoint position: 10
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | O---*---* |
+2 | | O-X-O | |
+3 *-X-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 1, y = 3
+GuiPoint position: 2
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----*-----*
+1 | O---X---* |
+2 | | O-X-O | |
+3 *-X-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 0, y = 3
+GuiPoint position: 3
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----O-----*
+1 | O---X---* |
+2 | | O-X-O | |
+3 *-X-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 0, y = 6
+GuiPoint position: 11
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----O-----X
+1 | O---X---* |
+2 | | O-X-O | |
+3 *-X-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 1, y = 5
+GuiPoint position: 4
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 *-X-X   O-X-*
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 3, y = 6
+GuiPoint position: 8
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 *-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 3, y = 0
+GuiPoint position: 1
+Occupied: false
+  0 1 2 3 4 5 6
+0 *-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_1 X
+drop
+x = 0, y = 0
+GuiPoint position: 15
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----*-----*
+
+player_2 O
+drop
+x = 5, y = 1
+GuiPoint position: 14
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_1 X
+move_1
+x = 5, y = 3
+illegal move
+GuiPoint position: 13
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_1 X
+move_1
+x = 5, y = 5
+illegal move
+GuiPoint position: 15
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_1 X
+move_1
+x = 5, y = 1
+illegal move
+GuiPoint position: 21
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_1 X
+move_1
+x = 4, y = 4
+GuiPoint position: 22
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_1 X
+move_2
+x = 4, y = 3
+GuiPoint position: 15
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_2 O
+move_1
+x = 5, y = 1
+GuiPoint position: 14
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | O---*---*-|
+6 *-----*-----*
+
+player_2 O
+move_2
+x = 5, y = 3
+GuiPoint position: 22
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---O---*-|
+6 *-----*-----*
+
+player_1 X
+move_1
+x = 4, y = 3
+GuiPoint position: 21
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---O---*-|
+6 *-----*-----*
+
+player_1 X
+move_2
+x = 4, y = 4
+GuiPoint position: 14
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---O---*-|
+6 *-----*-----*
+
+player_2 O
+move_1
+x = 5, y = 3
+GuiPoint position: 6
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---O---*-|
+6 *-----*-----*
+
+player_2 O
+move_2
+x = 6, y = 3
+GuiPoint position: 21
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_1 X
+move_1
+x = 4, y = 4
+GuiPoint position: 22
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-*-X | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_1 X
+move_2
+x = 4, y = 3
+GuiPoint position: 6
+Occupied: true
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_2 O
+move_1
+x = 6, y = 3
+GuiPoint position: 7
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_2 O
+move_2
+x = 6, y = 0
+illegal move
+GuiPoint position: 7
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_2 O
+move_2
+x = 6, y = 0
+illegal move
+GuiPoint position: 7
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_2 O
+move_2
+x = 6, y = 0
+illegal move
+GuiPoint position: 7
+Occupied: false
+  0 1 2 3 4 5 6
+0 X-----O-----X
+1 | O---X---O |
+2 | | O-X-O | |
+3 O-X-X   O-X-X
+4 | | O-X-* | |
+5 | *---*---*-|
+6 *-----O-----*
+
+player_2 O
+move_2
+x = 6, y = 0
+illegal move
+

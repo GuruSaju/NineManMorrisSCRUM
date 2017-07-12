@@ -1,0 +1,2 @@
+add .classpath to .gitignore to avoid java version issue
+If .classpath is absent, you may need to config java build path manually in eclipse: righit click on project->property-> Java Build Path, in the 'Source' tab, set source folder; in 'Liabraries' tab, add all libraries needed to build the project.

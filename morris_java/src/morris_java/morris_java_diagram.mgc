@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="morris_java.GuiBoard" x="995" y="846">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="morris_java.Coord"
+            endpointName="coordinate" kind="Simple"/>
+        <Association destinationClassName="morris_java.GuiPoint"
+            endpointName="positions" kind="Simple"/>
+        <Communication destinationClassName="morris_java.GuiPoint"/>
+        <Communication destinationClassName="morris_java.Coord"/>
+    </Class>
+    <Class name="morris_java.AI" x="222" y="13">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="me" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="bestMove" kind="Simple"/>
+        <Communication destinationClassName="morris_java.GameBoard"/>
+        <Communication destinationClassName="morris_java.Position"/>
+        <Communication destinationClassName="morris_java.GameController"/>
+    </Class>
+    <Class name="morris_java.LookupTable" x="580" y="60">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="morris_java.Data"
+            endpointName="lookupTable" kind="Simple"/>
+        <Communication destinationClassName="morris_java.Data"/>
+    </Class>
+    <Class name="morris_java.GameBoard" x="603" y="637">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="morris_java.Coord"
+            endpointName="coordList" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="positions" kind="Simple"/>
+        <Communication destinationClassName="morris_java.Player"/>
+        <Communication destinationClassName="morris_java.Position"/>
+    </Class>
+    <Class name="morris_java.GuiPoint" x="1119" y="439">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="morris_java.Data" x="864" y="70">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="morris_java.Player" x="-1" y="336">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="morris_java.Coord" x="283" y="1087">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="morris_java.Node" x="236" y="508">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="player1" kind="Simple"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="player2" kind="Simple"/>
+        <Association destinationClassName="morris_java.GameBoard"
+            endpointName="board" kind="Simple"/>
+        <Communication destinationClassName="morris_java.Player"/>
+    </Class>
+    <Class name="morris_java.GameController" x="37" y="708">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="player_1" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="last_pos" kind="Simple"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="current_player" kind="Simple"/>
+        <Association destinationClassName="morris_java.Coord"
+            endpointName="potentialpos" kind="Simple"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="player_2" kind="Simple"/>
+        <Association destinationClassName="morris_java.GameBoard"
+            endpointName="board" kind="Simple"/>
+        <Communication destinationClassName="morris_java.GameBoard"/>
+        <Communication destinationClassName="morris_java.Player"/>
+    </Class>
+    <Class name="morris_java.Position" x="535" y="230">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="true"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="true"
+            accessors-accepted="true" constructors-accepted="true"/>
+        <Association destinationClassName="morris_java.Coord"
+            endpointName="coord" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="left" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="up" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="right" kind="Simple"/>
+        <Association destinationClassName="morris_java.Position"
+            endpointName="down" kind="Simple"/>
+        <Association destinationClassName="morris_java.Player"
+            endpointName="player" kind="Simple"/>
+    </Class>
+</ClassDiagram>

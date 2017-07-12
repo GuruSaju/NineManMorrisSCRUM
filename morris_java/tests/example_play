@@ -1,0 +1,565 @@
+
+        *-----*-----*
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+(0,0)
+
+        X-----*-----*
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(1,1)
+
+        X-----*-----*
+        | O---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+(0,3)
+
+        X-----X-----*
+        | O---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(0,6)
+
+        X-----X-----O
+        | O---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+(1,3)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(3,6)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-*-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+(2,3)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-X-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+new_mill
+enter a postion in format (x,y)
+(0,6)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(0,6)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-X-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+(3,0)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-X-* | |
+        X-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(3,5)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-X-* | |
+        X-*-*   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+(6,0)
+
+        X-----X-----O
+        | O---X---* |
+        | | *-X-* | |
+        X-*-*   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----*
+player_1
+new_mill
+enter a postion in format (x,y)
+(0,6)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        X-*-*   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(6,3)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        X-*-*   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----*
+player_1
+drop
+enter a postion in format (x,y)
+(3,1)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        X-X-*   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----*
+player_2
+drop
+enter a postion in format (x,y)
+(6,6)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        X-X-*   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----O
+player_1
+drop
+enter a postion in format (x,y)
+(3,2)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----O
+player_1
+new_mill
+enter a postion in format (x,y)
+(6,3)
+
+        X-----X-----*
+        | O---X---* |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----O
+player_2
+drop
+enter a postion in format (x,y)
+(1,5)
+
+        X-----X-----*
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----O
+player_1
+drop
+enter a postion in format (x,y)
+(0,6)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----O
+player_1
+new_mill
+enter a postion in format (x,y)
+(6,6)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+(6,6)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----O
+player_1
+move_1
+enter a postion in format (x,y)
+(6,0)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----O
+player_1
+move_2
+enter a postion in format (x,y)
+(6,3)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----X-----O
+player_2
+move_1
+enter a postion in format (x,y)
+(3,5)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-O-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----X-----O
+player_2
+move_2
+enter a postion in format (x,y)
+(5,5)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        *-----X-----O
+player_1
+move_1
+enter a postion in format (x,y)
+(6,3)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        *-----X-----O
+player_1
+move_2
+enter a postion in format (x,y)
+(6,0)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        X-----*-----O
+player_1
+new_mill
+enter a postion in format (x,y)
+(6,6)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        X-----*-----*
+player_2
+move_1
+enter a postion in format (x,y)
+(5,5)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        X-----*-----*
+player_2
+move_2
+enter a postion in format (x,y)
+(5,3)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---O---*-|
+        X-----*-----*
+player_1
+move_1
+enter a postion in format (x,y)
+(2,3)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---O---*-|
+        X-----*-----*
+player_1
+move_2
+enter a postion in format (x,y)
+(2,2)
+
+        X-----X-----X
+        | O---X---O |
+        | | X-*-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---O---*-|
+        X-----*-----*
+player_2
+move_1
+enter a postion in format (x,y)
+(5,3)
+
+        X-----X-----X
+        | O---X---O |
+        | | X-*-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---O---*-|
+        X-----*-----*
+player_2
+move_2
+enter a postion in format (x,y)
+(5,1)
+
+        X-----X-----X
+        | O---X---O |
+        | | X-*-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | O---*---*-|
+        X-----*-----*
+player_1
+move_1
+enter a postion in format (x,y)
+(2,2)
+
+        X-----X-----X
+        | O---X---O |
+        | | X-*-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | O---*---*-|
+        X-----*-----*
+player_1
+move_2
+enter a postion in format (x,y)
+(2,3)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | O---*---*-|
+        X-----*-----*
+player_1
+new_mill
+enter a postion in format (x,y)
+(5,1)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----*
+player_2
+fly_1
+enter a postion in format (x,y)
+(1,1)
+
+        X-----X-----X
+        | O---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----*-----*
+player_2
+fly_2
+enter a postion in format (x,y)
+(5,5)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        X-----*-----*
+player_1
+move_1
+enter a postion in format (x,y)
+(3,1)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-O
+        | | *-*-* | |
+        | *---*---O-|
+        X-----*-----*
+player_1
+move_2
+enter a postion in format (x,y)
+(5,1)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-*-X   *-*-O
+        | | *-*-* | |
+        | X---*---O-|
+        X-----*-----*
+player_2
+fly_1
+enter a postion in format (x,y)
+(3,6)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-*-X   *-*-O
+        | | *-*-* | |
+        | X---*---O-|
+        X-----*-----*
+player_2
+fly_2
+enter a postion in format (x,y)
+(4,2)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-*-X   *-*-*
+        | | O-*-* | |
+        | X---*---O-|
+        X-----*-----*
+player_1
+move_1
+enter a postion in format (x,y)
+(5,1)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-*-X   *-*-*
+        | | O-*-* | |
+        | X---*---O-|
+        X-----*-----*
+player_1
+move_2
+enter a postion in format (x,y)
+(3,1)
+
+        X-----X-----X
+        | *---X---O |
+        | | *-X-* | |
+        X-X-X   *-*-*
+        | | O-*-* | |
+        | *---*---O-|
+        X-----*-----*
+player_1
+new_mill
+enter a postion in format (x,y)
+(4,2)
+

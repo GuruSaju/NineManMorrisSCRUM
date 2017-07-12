@@ -1,0 +1,231 @@
+
+        *-----*-----*
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----*-----*
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----*
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-*
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----*
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----*-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        *-----O-----X
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        *-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        O-*-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | *---*---* |
+        | | *-*-* | |
+        O-X-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---*---* |
+        | | *-*-* | |
+        O-X-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---* |
+        | | *-*-* | |
+        O-X-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-*   *-*-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-*   *-X-O
+        | | *-*-* | |
+        | *---*---*-|
+        X-----O-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-*   *-X-O
+        | | *-*-* | |
+        | *---*---O-|
+        X-----O-----X
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-*   *-X-O
+        | | *-*-* | |
+        | *---X---O-|
+        X-----O-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-*   *-X-O
+        | | *-*-* | |
+        | O---X---O-|
+        X-----O-----X
+player_1
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-X   *-X-O
+        | | *-*-* | |
+        | O---X---O-|
+        X-----O-----X
+player_2
+drop
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-X   *-X-O
+        | | O-*-* | |
+        | O---X---O-|
+        X-----O-----X
+player_1
+move_1
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | *-*-* | |
+        O-X-X   *-X-O
+        | | O-*-* | |
+        | O---X---O-|
+        X-----O-----X
+player_1
+move_2
+enter a postion in format (x,y)
+
+        X-----O-----X
+        | O---X---O |
+        | | X-*-* | |
+        O-X-*   *-X-O
+        | | O-*-* | |
+        | O---X---O-|
+        X-----O-----X
+player_2
+move_1
+enter a postion in format (x,y)
